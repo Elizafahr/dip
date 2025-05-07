@@ -1,0 +1,109 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:v="http://schemas.microsoft.com/visio/2003/SVGExtensions/" xml:space="preserve" xmlns:xlink="http://www.w3.org/1999/xlink" width="14.192913in" height="20.078741in" viewBox="0 0 1021.8898 1445.6693">
+ <v:documentProperties>
+  <v:userDefs>
+   <v:ud v:nameU="msvNoAutoConnect" v:val="1"/>
+  </v:userDefs>
+ </v:documentProperties>
+ <g id="SFixTitle"/>
+ <g id="SContent">
+  <g>
+   <g transform="matrix(1,0,0,-1,0,1445.6693)">
+    <g transform="matrix(1,0,0,1,-414.56693,2520.1416)" v:mID="1">
+     <title>Dynamic connector.1</title>
+     <g transform="matrix(1,0,0,1,0,0)" v:mID="1">
+      <title>Dynamic connector.1</title>
+      <path d="M1324.397460938,-1447.132080078 L1330.157470703,-1444.251953125 L1324.397460938,-1441.371948242 M1324.397460938,-1447.132080078 C1325.549560547,-1445.404052734 1325.549560547,-1443.099853516 1324.397460938,-1441.371948242 " stroke="#000000" stroke-width="0.75" fill="#000000"  fill-rule="evenodd" opacity="0" transform="matrix(1,0,0,1,0,0)"/>
+      <path d="M1021.889770508,-1444.251953125 L1330.157470703,-1444.251953125 " stroke="#000000" stroke-width="0.75" stroke-linecap="round" fill="none" stroke-opacity="0"/>
+     </g>
+     <path d="M1324.397460938,-1447.132080078 L1330.157470703,-1444.251953125 L1324.397460938,-1441.371948242 M1324.397460938,-1447.132080078 C1325.549560547,-1445.404052734 1325.549560547,-1443.099853516 1324.397460938,-1441.371948242 " stroke="#000000" stroke-width="0.75" fill="#000000"  fill-rule="evenodd" transform="matrix(1,0,0,1,0,0)"/>
+     <path d="M1021.889770508,-1444.251953125 L1330.157470703,-1444.251953125 " stroke="#000000" stroke-width="0.75" stroke-linecap="round" fill="none"/>
+    </g>
+    <g transform="matrix(1,0,0,1,405.3543,988.58264)" v:mID="2">
+     <title>Shape2</title>
+     <path d="M0,127.559051514 L201.968505859,127.559051514 L201.968505859,127.559051514 L201.968505859,0 L201.968505859,0 L0,0 L0,0 L0,127.559051514 " stroke="#000000" stroke-width="0.75" stroke-linecap="round" fill="#FFFFFF"  fill-rule="evenodd"/>
+     <g transform="matrix(1,0,0,1,1.4173279,1.4173203)">
+      <text x="0.011175156" y="12.373229" class="TextStyle0" fill="#000000" opacity="1" transform="matrix(1,0,0,-1,0,68.54882)">бронирование билетов</text>
+     </g>
+    </g>
+    <g transform="matrix(1,0,0,1,-999.2126,2466.1416)" v:mID="3">
+     <title>Dynamic connector.3</title>
+     <path d="M1398.806884766,-1448.549438477 L1404.566894531,-1445.669311523 L1398.806884766,-1442.789306641 M1398.806884766,-1448.549438477 C1399.958984375,-1446.821411133 1399.958984375,-1444.517333984 1398.806884766,-1442.789306641 " stroke="#000000" stroke-width="0.75" fill="#000000"  fill-rule="evenodd" transform="matrix(0.99998456,-0.00555549,0.00555549,0.99998456,8.053101,7.7807617)"/>
+     <path d="M1021.889770508,-1443.543334961 L1404.566894531,-1445.669311523 " stroke="#000000" stroke-width="0.75" stroke-linecap="round" fill="none"/>
+    </g>
+    <g transform="matrix(1,0,0,1,33.307083,1027.5591)" v:mID="4">
+     <title>Shape4</title>
+     <g transform="matrix(1,0,0,1,1.4173279,-13.464567)">
+      <text x="64.82688" y="9.898582" class="TextStyle1" fill="#000000" opacity="1" transform="matrix(1,0,0,-1,0,25.500473)">&#160;&#160;&#160;&#160;&#160;&#160;&#160;</text>
+      <text x="93.69775" y="9.898582" class="TextStyle1" fill="#000000" opacity="1" transform="matrix(1,0,0,-1,0,25.500473)">Информация о мероприятии</text>
+     </g>
+    </g>
+    <g transform="matrix(1,0,0,1,75.82677,1075.8898)" v:mID="5">
+     <title>Shape5</title>
+     <g transform="matrix(1,0,0,1,1.4173126,-5.740158)">
+      <text x="67.312965" y="9.898582" class="TextStyle1" fill="#000000" opacity="1" transform="matrix(1,0,0,-1,0,25.500473)">&#160;&#160;&#160;&#160;&#160;&#160;&#160;</text>
+      <text x="96.18384" y="9.898582" class="TextStyle1" fill="#000000" opacity="1" transform="matrix(1,0,0,-1,0,25.500473)">Информация о клиенте</text>
+     </g>
+    </g>
+    <g transform="matrix(1,0,0,1,-999.2126,2521.559)" v:mID="6">
+     <title>Dynamic connector.6</title>
+     <path d="M1398.806884766,-1448.549438477 L1404.566894531,-1445.669311523 L1398.806884766,-1442.789306641 M1398.806884766,-1448.549438477 C1399.958984375,-1446.821411133 1399.958984375,-1444.517333984 1398.806884766,-1442.789306641 " stroke="#000000" stroke-width="0.75" fill="#000000"  fill-rule="evenodd" transform="matrix(0.99997526,-0.007037151,0.007037151,0.99997526,10.20813,9.848389)"/>
+     <path d="M1021.889770508,-1442.976318359 L1404.566894531,-1445.669311523 " stroke="#000000" stroke-width="0.75" stroke-linecap="round" fill="none"/>
+    </g>
+    <g transform="matrix(1,0,0,1,-552.7559,2561.8113)" v:mID="7">
+     <title>Dynamic connector.7</title>
+     <path d="M1016.129760742,-1448.549438477 L1021.889770508,-1445.669311523 L1016.129760742,-1442.789306641 M1016.129760742,-1448.549438477 C1017.281738281,-1446.821411133 1017.281738281,-1444.517333984 1016.129760742,-1442.789306641 " stroke="#000000" stroke-width="0.75" fill="#000000"  fill-rule="evenodd" transform="matrix(-0,-1,1,0,2467.559,-423.77954)"/>
+     <path d="M1021.889770508,-1137.401611328 L1021.889770508,-1445.669311523 " stroke="#000000" stroke-width="0.75" stroke-linecap="round" fill="none"/>
+    </g>
+    <g transform="matrix(1,0,0,1,-488.97635,2561.8113)" v:mID="8">
+     <title>Dynamic connector.8</title>
+     <path d="M1016.129760742,-1448.549438477 L1021.889770508,-1445.669311523 L1016.129760742,-1442.789306641 M1016.129760742,-1448.549438477 C1017.281738281,-1446.821411133 1017.281738281,-1444.517333984 1016.129760742,-1442.789306641 " stroke="#000000" stroke-width="0.75" fill="#000000"  fill-rule="evenodd" transform="matrix(-0,-1,1,0,2467.559,-423.77954)"/>
+     <path d="M1021.889770508,-1137.401611328 L1021.889770508,-1445.669311523 " stroke="#000000" stroke-width="0.75" stroke-linecap="round" fill="none"/>
+    </g>
+    <g transform="matrix(3.061617E-16,1,-1,3.061617E-16,463.81888,1071.8505)" v:mID="9">
+     <title>Shape9</title>
+     <g transform="matrix(1,0,0,1,1.4173126,-9.92126)">
+      <text x="80.89949" y="9.898582" class="TextStyle1" fill="#000000" opacity="1" transform="matrix(1,0,0,-1,0,25.500473)">Правила платформ</text>
+     </g>
+    </g>
+    <g transform="matrix(3.061617E-16,1,-1,3.061617E-16,522.27997,1068.9697)" v:mID="10">
+     <title>Shape10</title>
+     <g transform="matrix(1,0,0,1,1.4173279,-14.881891)">
+      <text x="66.75304" y="0" class="TextStyle1" fill="#000000" opacity="1" transform="matrix(1,0,0,-1,0,35.776062)">Договоры с организаторами</text>
+     </g>
+    </g>
+    <g transform="matrix(1,0,0,1,660.4724,1081.2046)" v:mID="11">
+     <title>Shape11</title>
+     <g transform="matrix(1,0,0,1,-54.921257,-13.464567)">
+      <text x="0" y="9.898582" class="TextStyle1" fill="#000000" opacity="1" transform="matrix(1,0,0,-1,0,25.500473)">Оформленный заказ</text>
+     </g>
+    </g>
+    <g transform="matrix(1,0,0,1,660.4725,1027.5591)" v:mID="12">
+     <title>Shape12</title>
+     <g transform="matrix(1,0,0,1,-30.11811,-23.740158)">
+      <text x="0" y="0" class="TextStyle1" fill="#000000" opacity="1" transform="matrix(1,0,0,-1,0,35.776062)">&#160;&#160;</text>
+      <text x="8.248819" y="0" class="TextStyle1" fill="#000000" opacity="1" transform="matrix(1,0,0,-1,0,35.776062)">Электронный билет </text>
+     </g>
+    </g>
+    <g transform="matrix(1,0,0,1,-514.8771,2062.2046)" v:mID="13">
+     <title>Dynamic connector.13</title>
+     <path d="M1016.129760742,-1076.502075195 L1021.889770508,-1073.622070313 L1016.129760742,-1070.74206543 M1016.129760742,-1076.502075195 C1017.281738281,-1074.774047852 1017.281738281,-1072.470092773 1016.129760742,-1070.74206543 " stroke="#000000" stroke-width="0.75" fill="#000000"  fill-rule="evenodd" transform="matrix(-0.010568558,0.99994415,-0.99994415,-0.010568558,-40.872437,-2106.8013)"/>
+     <path d="M1025.821899414,-1445.669311523 L1021.889770508,-1073.622070313 " stroke="#000000" stroke-width="0.75" stroke-linecap="round" fill="none"/>
+    </g>
+    <g transform="matrix(3.061617E-16,1,-1,3.061617E-16,506.33853,781.2992)" v:mID="14">
+     <title>Shape14</title>
+     <g transform="matrix(1,0,0,1,1.4173279,-20.19685)">
+      <text x="48.390415" y="0" class="TextStyle1" fill="#000000" opacity="1" transform="matrix(1,0,0,-1,0,35.776062)">&#160;&#160;&#160;</text>
+      <text x="60.76364" y="0" class="TextStyle1" fill="#000000" opacity="1" transform="matrix(1,0,0,-1,0,35.776062)">Сотрудники </text>
+     </g>
+    </g>
+    <g transform="matrix(1,0,0,1,-414.56693,2464.7244)" v:mID="15">
+     <title>Dynamic connector.15</title>
+     <path d="M1324.397460938,-1447.132080078 L1330.157470703,-1444.251953125 L1324.397460938,-1441.371948242 M1324.397460938,-1447.132080078 C1325.549560547,-1445.404052734 1325.549560547,-1443.099853516 1324.397460938,-1441.371948242 " stroke="#000000" stroke-width="0.75" fill="#000000"  fill-rule="evenodd" transform="matrix(1,0,0,1,0,0)"/>
+     <path d="M1021.889770508,-1444.251953125 L1330.157470703,-1444.251953125 " stroke="#000000" stroke-width="0.75" stroke-linecap="round" fill="none"/>
+    </g>
+   </g>
+  </g>
+ </g>
+ <style type="text/css"><![CDATA[ .TextStyle1 {font-family:Times New Roman;font-size:16.497639px;}.TextStyle0 {font-family:Times New Roman;font-size:20.622047px;} ]]></style>
+</svg>
